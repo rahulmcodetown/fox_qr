@@ -31,7 +31,7 @@ dependencies:
   cached_network_image: ^3.2.1
   cupertino_back_gesture: ^0.1.0
   cupertino_icons: ^1.0.2
-  
+  dotted_border: ^2.0.0+3
   file_picker: ^5.0.1
   flutter:
     sdk: flutter
@@ -41,7 +41,7 @@ dependencies:
   form_builder_validators: ^8.3.0
   form_field_validator: ^1.1.0
   get_it: ^7.2.0
-  google_fonts: ^3.0.1
+  google_fonts: ^4.0.3
   image_picker: ^0.8.5+3
   internet_connection_checker: ^0.0.1+4
   provider: ^6.0.3
